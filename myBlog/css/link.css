@@ -1,20 +1,20 @@
 /* 未访问的链接 */
 a:link {
-    color: #72ACE3;
+    color: #4497e3;
     text-decoration: none;
 }
 /* 已访问的链接 */
 a:visited{
-    color: #72ACE3;
+    color: #4497e3;
     text-decoration: none;
 }
 /* 鼠标悬停链接 */
 a:hover{
-	color: #ff000087;
+	color: #ff0000b0;
 	text-decoration: underline;
 }
 /* 已选择的链接 */
 a:active {
-	color: #72ACE3;
+	color: #4497e3;
 	text-decoration: underline;
 }
